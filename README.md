@@ -46,12 +46,6 @@ I write for clarity. I design for extensibility. I ship for reliability.
 
 ## Technical Stack
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI88bfvu/giphy.gif" width="160"/>
-</div>
-
-<br/>
-
 **Languages**
 
 <div align="center">
@@ -82,28 +76,6 @@ I write for clarity. I design for extensibility. I ship for reliability.
 
 ---
 
-## Engineering Philosophy
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-| Principle | In Practice |
-|:--|:--|
-| **Clarity before cleverness** | Readable code beats smart code no one understands six months later |
-| **Constraints first** | Define success, failure, and scope before touching a keyboard |
-| **Modular by default** | Independent components with clean contracts make systems testable and honest |
-| **Observability built in** | Logging and tests are part of the feature, not afterthoughts |
-| **Documentation as craft** | A well-written spec or runbook is engineering work, not overhead |
-| **Reviews as leverage** | Code review is where I invest in the team's long-term velocity |
-
-</div>
-
----
 
 ## GitHub Activity
 
