@@ -1,154 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,24,27&height=220&section=header&text=Sakshi%20Tamshetti&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Production-Grade%20Code&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&pause=1200&color=FF6EC7&center=true&vCenter=true&width=860&lines=Engineering+systems+built+to+last%2C+not+just+to+demo.;End-to-end+ownership+%E2%80%94+architecture+to+delivery.;Clean+interfaces.+Predictable+behaviour.+Real+impact.;AI+pipelines+that+work+in+production%2C+not+just+notebooks.;I+write+code+others+can+read%2C+maintain%2C+and+extend." alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="45">&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="45">&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="45">
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/SakshiTamshetti?tab=followers">
-    <img src="https://img.shields.io/github/followers/SakshiTamshetti?label=Followers&style=for-the-badge&color=FF6EC7&labelColor=1a0533&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/SakshiTamshetti?tab=stars">
-    <img src="https://img.shields.io/github/stars/SakshiTamshetti?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=C084FC&labelColor=1a0533"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SakshiTamshetti&label=Profile+Views&color=F472B6&style=for-the-badge&labelColor=1a0533"/>
-</div>
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sakshi+%F0%9F%91%8B"/>
+</h1>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="65%">
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240"/>
+I’m a Computer Science student with a growing interest in Artificial Intelligence and software development.
 
-I build systems that perform under real conditions. Not proof-of-concepts — production deployments.
+I enjoy learning how systems work behind the scenes — how data is processed, how models are built, and how those models are integrated into real applications. Exploring the full journey from data to usable software is what interests me the most.
 
-My work spans the full stack: architecture decisions, API contracts, data pipelines, UI, and ML integration. I take ownership at every layer and hand off code that others can confidently maintain.
+While working on projects, I try to think about structure and design before writing code so that the solutions stay simple, organized, and scalable.
 
-What sets my approach apart is discipline before execution. I spend time upfront defining constraints, success criteria, and failure modes so that what gets built is correct by design, not corrected in retrospect.
+Currently, I’m focusing on improving my skills in:
 
-I write for clarity. I design for extensibility. I ship for reliability.
+• Artificial Intelligence and Machine Learning  
+• Data Analysis and Statistical Methods  
+• Backend and Full-Stack Development  
+• Building practical and reliable AI applications  
 
-<br clear="right"/>
+My goal is to keep learning and gradually build systems that combine solid algorithms with thoughtful software engineering.
 
----
+</td>
 
-## Technical Stack
+<td width="35%" align="center">
 
-**Languages**
+<img src="https://share.google/t63hlcaUpSOZPRYPg" width="250"/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,r&theme=dark&perline=7" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=7" />
-</div>
-
-<br/>
-
-**AI / Machine Learning**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv,tensorflow,jupyter&theme=dark&perline=6" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=google&theme=dark" title="Google Gemini"/>
-</div>
-
-<br/>
-
-**Web & Backend**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,dotnet,nodejs,git,github&theme=dark&perline=6" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-
-## GitHub Activity
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SakshiTamshetti&show_icons=true&theme=radical&hide_border=true&bg_color=1a0533&title_color=FF6EC7&icon_color=C084FC&text_color=F0ABFC&ring_color=FF6EC7" width="48%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SakshiTamshetti&theme=radical&hide_border=true&background=1a0533&ring=FF6EC7&fire=F472B6&currStreakLabel=C084FC&sideLabels=F0ABFC&dates=F0ABFC&sideNums=FF6EC7" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiTamshetti&layout=compact&theme=radical&hide_border=true&bg_color=1a0533&title_color=FF6EC7&text_color=F0ABFC&langs_count=8" width="42%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiTamshetti&bg_color=1a0533&color=F0ABFC&line=FF6EC7&point=C084FC&area_color=FF6EC7&area=true&hide_border=true&radius=8" width="97%"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,tensorflow,sklearn,opencv,pandas,numpy,postgres,git,github,vscode"/>
 
 </div>
 
 ---
 
-## Currently
-
 <div align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="200"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SakshiTamshetti&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiTamshetti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
 </div>
-
-<br/>
-
-Building a deeper foundation in system design, distributed systems, and performance engineering. Polishing work that demonstrates sustained engineering quality — not just surface-level functionality.
-
-Open to collaborations where technical rigour, clear ownership, and long-term thinking are taken seriously.
 
 ---
 
-## Contact
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50"/>
-
-<br/><br/>
-
-<a href="https://in.linkedin.com/in/sakshi-t-311123256">
-  <img src="https://img.shields.io/badge/Sakshi%20Tamshetti-1a0533?style=for-the-badge&logo=linkedin&logoColor=FF6EC7"/>
+<p align="center">
+<a href="https://github.com/SakshiTamshetti">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=6A5ACD"/>
 </a>
-&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/sakshi-t-311123256">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4DA3FF"/>
+</a>
+
 <a href="mailto:sakshitamshetti@gmail.com">
-  <img src="https://img.shields.io/badge/sakshitamshetti%40gmail.com-1a0533?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6A5ACD"/>
 </a>
 
-<br/><br/>
+</p>
 
-<sub>Clean architecture. Measurable outcomes. Solid delivery. If those matter to you, let's talk.</sub>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="45"/>
-&nbsp;
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="45"/>
-&nbsp;
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="45"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,24,27&height=140&section=footer&animation=fadeIn" width="100%"/>
+<p align="center">
+<sub style="color:#8b949e;">Always open to collaboration and interesting ideas</sub>
+</p>
