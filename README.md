@@ -27,7 +27,7 @@ My goal is to keep learning and gradually build systems that combine solid algor
 
 <td width="35%" align="center">
 
-<img src="https://share.google/t63hlcaUpSOZPRYPg" width="250"/>
+<img src="https://camo.githubusercontent.com/d7cdfdb2bdb10f30f0890d47603b3944062bbe7788d185b47372059842e1c065/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e676966" width="250"/>
 
 </td>
 </tr>
