@@ -41,15 +41,6 @@ My goal is to keep learning and gradually build systems that combine solid algor
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SakshiTamshetti&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiTamshetti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
 
 ---
 
